@@ -3,7 +3,7 @@
 ## Usage
 
 ```js
-const logger = require('yy030913@logger')([logPath])
+const logger = require('yy030913.logger')([logPath])
 logger['level'](msg);
 ```
 all levels: ['fatal', 'error', 'warn', 'info', 'debug', 'trace']
